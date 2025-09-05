@@ -22,8 +22,8 @@ An IMU (Inertial Measurement Unit) data collection application based on the Andr
 
 ```bash
 
-git clone https://github.com/yourusername/imu-data-collector.git
-cd imu-data-collector
+git clone https://github.com/RujieXu0408/smartphone_IMUdata_collection.git
+cd smartphone_IMUdata_collection
 Use Android Studio to open the project and build the installation
 ```
 
